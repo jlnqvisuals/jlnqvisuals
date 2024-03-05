@@ -1,5 +1,5 @@
 
-![Racoon](https://github.com/jlnqvisuals/jlnqvisuals/blob/main/jlnqBanner.png?raw=true)
+![Racoon](https://github.com/jlnqvisuals/jlnqvisuals/blob/main/grain.png?raw=true)
 
 
 
