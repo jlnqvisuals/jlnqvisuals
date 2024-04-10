@@ -1,5 +1,5 @@
 
-![Profile Views](https://img.shields.io/badge/Profile_Views-5-blue)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=jlnqvisuals.jlnqvisuals)
 
 
 ![Racoon](https://github.com/jlnqvisuals/jlnqvisuals/blob/main/grain.png?raw=true)
