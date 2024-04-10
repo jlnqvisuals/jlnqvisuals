@@ -1,6 +1,6 @@
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=jlnqvisuals.jlnqvisuals)
 
+![](https://komarev.com/ghpvc/?username=jlnqvisuals)
 
 ![Racoon](https://github.com/jlnqvisuals/jlnqvisuals/blob/main/grain.png?raw=true)
 
