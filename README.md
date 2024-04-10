@@ -1,7 +1,5 @@
 
 
-![](https://komarev.com/ghpvc/?username=jlnqvisuals)
-
 ![Racoon](https://github.com/jlnqvisuals/jlnqvisuals/blob/main/grain.png?raw=true)
 
 ## 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲!
@@ -34,3 +32,7 @@
 <li>C++</li>
 <li>Java</li>
 </h1>
+
+-----------------------------------
+
+![](https://komarev.com/ghpvc/?username=jlnqvisuals&color=blue&style=for-the-badge&label=profile_views)
