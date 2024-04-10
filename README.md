@@ -1,4 +1,7 @@
 
+![Profile Views](https://img.shields.io/badge/Profile_Views-5-blue)
+
+
 ![Racoon](https://github.com/jlnqvisuals/jlnqvisuals/blob/main/grain.png?raw=true)
 
 ## 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲!
