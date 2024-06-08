@@ -8,7 +8,7 @@
 
 ## 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲!
 
-### John Lloyd Nicolas Quilino, BSCpE Student at Colegio de Montalban, showcasing a curated selection of my programming insights, expertise, skills, and projects that I believe offer valuable insights and solutions.
+### "Hi, I'm John Lloyd Nicolas Quilino, a BSCpE student at Colegio de Montalban. <p> <p> I'm showcasing a curated selection of my programming insights, expertise, skills, and projects that I believe offer valuable insights and solutions."
 
 
 -----------------------------------
