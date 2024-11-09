@@ -1,7 +1,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/quilinojlnq/"><img src="https://github.com/jlnqvisuals/jlnqvisuals/blob/main/grain.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/quilinojlnq/">
 
 
 
