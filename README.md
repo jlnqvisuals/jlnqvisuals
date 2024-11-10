@@ -1,3 +1,7 @@
+
+<img src="https://github.com/projectsbyjlnq/projectsbyjlnq/blob/main/Picture1.png?raw=true">
+
+
 <a href="https://www.linkedin.com/in/quilinojlnq/"><img src="https://github.com/jlnqvisuals/Assets/blob/main/SOCMED%20ICON%20with%20TXT/SOCMED%20ICON%20with%20TXT/LinkedIn.png?raw=true" width="128" height="30"></a>
 <a href="https://sites.google.com/view/jlnqvisuals"><img src="https://github.com/jlnqvisuals/Assets/blob/main/SOCMED%20ICON%20with%20TXT/SOCMED%20ICON%20with%20TXT/jlnqSites.png?raw=true" width="145" height="30"></a>
 <a href="https://www.facebook.com/quilino.jlnq"><img src="https://github.com/jlnqvisuals/Assets/blob/main/SOCMED%20ICON%20with%20TXT/SOCMED%20ICON%20with%20TXT/PersonalFB.png?raw=true" width="135" height="30"></a>
